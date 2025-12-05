@@ -35,5 +35,8 @@ public class UserController {
     public void ddd() {
 
     }
+    public void login(){
+
+    }
 
 }
