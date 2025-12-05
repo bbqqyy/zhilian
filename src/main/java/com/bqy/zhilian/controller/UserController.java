@@ -32,4 +32,8 @@ public class UserController {
         return ApiResponse.success(userService.register(request));
     }
 
+    public void ddd() {
+
+    }
+
 }
